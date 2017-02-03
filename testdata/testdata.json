@@ -1,0 +1,4512 @@
+[
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "DMK",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "USM"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "DMK",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "USM"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ROM"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "ZIA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "ZIA",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KIV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ROM"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "ZIA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "ZIA",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KIV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NNM,AMV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ARH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "VVO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "PKC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NER",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS,GDX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VVO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW,LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SVX,OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PKC,OVB",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VVO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KHV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NSK",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MRV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PYJ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IKT,KJA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PYJ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW,OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "GDX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MRV,VOG",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NNM,AMV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ARH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "VVO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "PKC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NER",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS,GDX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VVO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW,LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SVX,OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PKC,OVB",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VVO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KHV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "NSK",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MRV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PYJ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IKT,KJA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "PYJ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW,OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "GDX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MRV,VOG",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MRU,MLE "
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MRU,MLE "
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LON",
+            "IsOW": false,
+            "IsRT": false,
+            "Throught": "",
+            "To": "EDI"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "MAD",
+            "To": "LPA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LON",
+            "IsOW": false,
+            "IsRT": false,
+            "Throught": "",
+            "To": "EDI"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "MAD",
+            "To": "LPA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "CU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "US",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "CU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "CU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "US",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "CU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "UA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "EG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "UA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "EG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "AMM",
+            "To": "TLV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "AMM",
+            "To": "TLV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TJ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TJ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KGD,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LED,MSQ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LED,MSQ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "WAW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON,LTN"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "WAW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON,LTN"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BY"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KZ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BY"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "KZ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "DE,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "DE,CA",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "US",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "DE,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "DE,CA",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "US",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "GB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "GB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW,LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ZAG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LJU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TIA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VAR"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BUH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LJU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TIA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH,SKP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SKG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VAR"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BUH,BEG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ES"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ES"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "GB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "GB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW,LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "US,CA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ZAG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LJU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TIA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VAR"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BUH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LJU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TIA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH,SKP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LCA"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SKG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "VAR"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ATH"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LED",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BUH,BEG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ES"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "ES"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MAD",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "NYC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MAD",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IST"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MAD",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "NYC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MAD",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IST"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MSQ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MSQ"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AK,RU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AK,RU"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "UA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "UA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "RU",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "RU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "RU",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "CN",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "DUS",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "CN",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "DUS",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TLV,VNO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TLV,VNO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KHV",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "KHV",
+            "IsOW": false,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "URS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TLV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "FRU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "YKS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "TLV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LWO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "CAS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LBA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "TJM,OMS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AER"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "YTO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "YYC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "TLV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "FRU",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "YKS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "TLV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LWO"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "CAS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "MOW"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "LBA",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "IEV",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "TJM,OMS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "YKS",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AER"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "YTO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "YYC"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LED"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LED"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KRR",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "VKO",
+            "To": "LED"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KRR",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "SVO",
+            "To": "AAQ,TAS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "OGZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "SVO",
+            "To": "KHV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KRR",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "VKO",
+            "To": "LED"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "KRR",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "SVO",
+            "To": "AAQ,TAS"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "OGZ",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "SVO",
+            "To": "KHV"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "OVB",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AER,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "OVB",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "AER,SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "SVX",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "SIP"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IST"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "ALA",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "TSE"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "IST"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "SVX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "ALA",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "TSE"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "OVB"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BER,LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "BER,LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "NYC",
+            "IsOW": true,
+            "IsRT": false,
+            "Throught": "",
+            "To": "LAX"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "BAK,SCO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "DME",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "BAK,SCO",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "DME",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "LON"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "SIP",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": false,
+            "From": "MOW",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": ""
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "HKG"
+        }
+    },
+    {
+        "op": "=",
+        "params": {
+            "AndInverted": true,
+            "From": "LED",
+            "IsOW": true,
+            "IsRT": true,
+            "Throught": "",
+            "To": "HKG"
+        }
+    }
+]

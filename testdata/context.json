@@ -1,0 +1,1217 @@
+{
+    "RTSearchForOW": [],
+    "addDefaultSearch": false,
+    "addDirectFlightSearch": false,
+    "addNonOvernightSearch": false,
+    "addOWSearchesForRTAgents": [],
+    "addOvernightSearch": false,
+    "agentsNotToRunAdditionalSearchers": [],
+    "airCompaniesToExclude": [],
+    "airCompaniesToExcludeByPCC": [],
+    "airCompaniesToIncludeByPCC": [],
+    "airCompaniesToSearch": [],
+    "availableGDS": [
+        {
+            "bsp": "US",
+            "hash": "AXNSKmYWyZy4bpZSAqHGew==",
+            "name": "kplus",
+            "parameters": {
+                "login": "kplus"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "AL",
+            "hash": "dE3Scd2ER2uGqyKv2WqmsQ==",
+            "name": "pobeda",
+            "parameters": {
+                "login": "pobeda"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "KZ",
+            "hash": "pBfVSpVOHeB0aSqM0i7hLg==",
+            "name": "otrar_Z9_am",
+            "parameters": {
+                "login": "otrar_Z9_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "nDu12S6+HAzbHWxQhrIu2g==",
+            "name": "vip-service-avl_sita",
+            "parameters": {
+                "login": "vip-service-avl_sita"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "PL",
+            "hash": "GNxDzhNIrAKnDXIM0QFmyw==",
+            "name": "firstclass_am",
+            "parameters": {
+                "login": "firstclass_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "KZ",
+            "hash": "WMQpRdyqW64+kelHYCHIOw==",
+            "name": "otrar",
+            "parameters": {
+                "login": "otrar"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "f3ri5SEgRub0cDqGBPP4DQ==",
+            "name": "vip-service-avl_sabre",
+            "parameters": {
+                "login": "vip-service-avl_sabre"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "iczeO1bQakpcU6EHVNmGnQ==",
+            "name": "whitetravel_to",
+            "parameters": {
+                "login": "whitetravel_to"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "RTHnHBg93wwxS9WHcLYE8g==",
+            "name": "whitetravel_to_am",
+            "parameters": {
+                "login": "whitetravel_to_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "UA",
+            "hash": "NPmtn8N27MdY98PO+xLslw==",
+            "name": "12tripua",
+            "parameters": {
+                "login": "12tripUA"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "US",
+            "hash": "z3KCDAVx8pzym+Z6oZADEA==",
+            "name": "DealAngel",
+            "parameters": {
+                "login": "DealAngel"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "US",
+            "hash": "Dw89CyCYeEbeZPShnSwVMQ==",
+            "name": "DealAngel_am",
+            "parameters": {
+                "login": "DealAngel_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "DE",
+            "hash": "rbqY4XcmcidwOMnDMvSQvA==",
+            "name": "KRISGroup",
+            "parameters": {
+                "login": "KRISGroup"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "ohvmxn2+13zZ8d9eRrdvDQ==",
+            "name": "ScheduleGDS",
+            "parameters": {
+                "login": "ScheduleGDS"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "QKYSDmYXBtKHdXOHGptVvQ==",
+            "name": "Teletrain",
+            "parameters": {
+                "login": "Teletrain"
+            },
+            "status": "enabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "Sq96kEZDwQ4eQ1spur1VsQ==",
+            "name": "TeletrainSU",
+            "parameters": {
+                "login": "TeletrainSU"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "GB",
+            "hash": "ZS6HzDrhz35eLb6Pr97AeQ==",
+            "name": "chelsea",
+            "parameters": {
+                "login": "chelsea"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "GB",
+            "hash": "q0DnlheNNeO2F4Teg7QTwg==",
+            "name": "chelsea_am",
+            "parameters": {
+                "login": "chelsea_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "0CRrehVwBZEL0gfrIruKRw==",
+            "name": "elsyarres",
+            "parameters": {
+                "login": "elsyarres"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "e4SSK9mBvQJV9wq4Oe7a7Q==",
+            "name": "fakegds",
+            "parameters": {
+                "login": "fakegds"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "UA",
+            "hash": "P+M+LHCy4dqUvEJnR49GnQ==",
+            "name": "mr. blonde",
+            "parameters": {
+                "login": "711ua"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "UA",
+            "hash": "qKgorq4d7cWjs8L29almbg==",
+            "name": "mr. blonde am",
+            "parameters": {
+                "login": "711ua_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "US",
+            "hash": "eQyJTKQAk7tuJSyTJmJ3lQ==",
+            "name": "mr. brown",
+            "parameters": {
+                "login": "dtt"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "MD",
+            "hash": "Qr+KsOVCg5MhucwhPl8k2g==",
+            "name": "mr. pink",
+            "parameters": {
+                "login": "12tripMD"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "MD",
+            "hash": "mIckr7Nk1PH53s2SGSxjcA==",
+            "name": "mr. pink am",
+            "parameters": {
+                "login": "12tripMD_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "fo1DQR0zAUfJIIdKAlQxBg==",
+            "name": "mr. red",
+            "parameters": {
+                "login": "vip-service"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "82x2CGqQ0mUP063DSUSA9w==",
+            "name": "mr. red am",
+            "parameters": {
+                "login": "vip-service_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "e2qB3gR2nJ7r1cFHa9Oknw==",
+            "name": "mr. red avl",
+            "parameters": {
+                "login": "vip-service-avl"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "6+HvrdrYmkrxXu4saJUh8g==",
+            "name": "mr. red avl am",
+            "parameters": {
+                "login": "vip-service-avl_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "DE",
+            "hash": "C0RFIYHgKOBQBNMzHqhihg==",
+            "name": "mr. white",
+            "parameters": {
+                "login": "schubert"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "DE",
+            "hash": "CFCEdJCSUKLzTuwI3jCSFA==",
+            "name": "mr. white am",
+            "parameters": {
+                "login": "schubert_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "KZ",
+            "hash": "8Az0q5w7SRXDqaE0AzvFdA==",
+            "name": "otrar_am",
+            "parameters": {
+                "login": "otrar_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "ES",
+            "hash": "3BPb6hTfvwNSRBqJyrWwgQ==",
+            "name": "pax_gira",
+            "parameters": {
+                "login": "pax_gira"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "ES",
+            "hash": "rDKwQl6iROO3ZQnmt4LZbA==",
+            "name": "pax_gira_am",
+            "parameters": {
+                "login": "pax_gira_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "AL",
+            "hash": "qNUHD6rzcLrz+g0Bm7v2mQ==",
+            "name": "sig_acc_test",
+            "parameters": {
+                "login": "sig_acc_test"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "UA",
+            "hash": "Su22JUo3ZE1tOLyBtxPJVw==",
+            "name": "timetofly",
+            "parameters": {
+                "login": "timetofly"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "UA",
+            "hash": "O23fh+hAZBwARO98djEn7Q==",
+            "name": "timetofly_am",
+            "parameters": {
+                "login": "timetofly_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "2ZpVJJD7BKTc8qSF5eaq1g==",
+            "name": "vip-service-MP14",
+            "parameters": {
+                "login": "vip-service-MP14"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "QzvPUtWM4fE7tcyjtiVtRg==",
+            "name": "vip-service-sig",
+            "parameters": {
+                "login": "vip-service-sig"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "AL",
+            "hash": "pGkB10wptEBDgoMZTJgvAg==",
+            "name": "vip-service-sig-avl",
+            "parameters": {
+                "login": "vip-service-sig-avl"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "AL",
+            "hash": "Pl6zrHkyL2yRqAAHW4dE6Q==",
+            "name": "vip-service-sirena",
+            "parameters": {
+                "login": "vip-service-sirena"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "w5KjGOp66OGtuSlsLDuLMQ==",
+            "name": "white-travel",
+            "parameters": {
+                "login": "white-travel"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "RU",
+            "hash": "B+b3+0aYaQDd737fyqHFUg==",
+            "name": "white-travel_am",
+            "parameters": {
+                "login": "white-travel_am"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        },
+        {
+            "bsp": "AL",
+            "hash": "HbY3t9Dc9WNXZOhbhJGmkg==",
+            "name": "white-travel_sirena",
+            "parameters": {
+                "login": "white-travel_sirena"
+            },
+            "status": "disabled",
+            "tag": "Agent"
+        }
+    ],
+    "callerContext": "search",
+    "clientGMT": 3,
+    "clientType": "subagent",
+    "currentPath": "subagent:/NEW GDS SETTINGS/BY MARKET/RU/RU_AMAGAL_VIP",
+    "doNotRunAnySearchesByDefault": false,
+    "gds": [],
+    "gdsOfferToGetCount": {},
+    "infoMsgs": [
+        {
+            "code": "RU_SEARCH",
+            "message": "RU_SEARCH",
+            "mode": "MERGE",
+            "path": "subagent:/NEW GDS SETTINGS/BY MARKET/RU",
+            "type": "INF"
+        }
+    ],
+    "instantSearch": {},
+    "ipCountry": "-",
+    "isPartOf2OW4RTOffer": false,
+    "isWhitelabel": false,
+    "leadSettings": {},
+    "login": "12trip",
+    "originRequest": {
+        "adtCount": 1,
+        "airCompanies": [],
+        "allowDirMultiTicket": false,
+        "clientId": "12trip",
+        "cnnCount": 0,
+        "condDev": false,
+        "dateCreated": "2017-01-26T13:13:33.453Z",
+        "directOnly": false,
+        "directions": [
+            {
+                "date": "2017-04-15T00:00:00.000Z",
+                "from": "MOW",
+                "fromPointType": "B",
+                "fromRadius": null,
+                "to": "LED",
+                "toPointType": "B",
+                "toRadius": null
+            },
+            {
+                "date": "2017-04-16T00:00:00.000Z",
+                "from": "LED",
+                "fromPointType": "B",
+                "fromRadius": null,
+                "to": "MOW",
+                "toPointType": "B",
+                "toRadius": null
+            }
+        ],
+        "doNotRunSearchOnPresearch": false,
+        "doNotWaitForGDSResponse": false,
+        "excludeAirCompanies": [],
+        "id": "ea521fa0-ddae-4bc1-a8c0-8ee39d81da97",
+        "infCount": 0,
+        "isElsyarresRouteExist": false,
+        "isPassengersOptimizationEnabled": true,
+        "isWhitelabel": false,
+        "noCache": false,
+        "ott4862": true,
+        "reservClasses": [],
+        "runInstantSearch": false,
+        "search2OW": false,
+        "searchId": "ea521fa0-ddae-4bc1-a8c0-8ee39d81da97",
+        "searchInitiator": "12trip",
+        "searchInitiatorGroup": "NO_GROUP",
+        "searchOvernight": false,
+        "searchPrivate": false,
+        "searchRetry": 0,
+        "serviceClass": "E",
+        "states": [],
+        "useExtendedCachePolicyForSig": false,
+        "userCountry": "-",
+        "userIp": "192.168.55.1",
+        "vid": "716d005b-8ef3-437b-8582-65d8433c6c6e"
+    },
+    "owSearchesAsOwn": {},
+    "passengersInfo": {
+        "adtCount": 1,
+        "cnnCount": 0,
+        "infCount": 0
+    },
+    "platingCarrier": "",
+    "purchaseDate": "2017-01-26T13:13:37.613Z",
+    "reservClasses": [],
+    "reservationInfo": {
+        "addFOID": false,
+        "commission": {
+            "amount": 0,
+            "currency": "",
+            "setInReservation": false,
+            "type": "P"
+        },
+        "endorsement": [],
+        "gdsToReserveIn": "",
+        "osi": [],
+        "platingCarrierToSet": "",
+        "remarks": [],
+        "ssr": [],
+        "tourCode": ""
+    },
+    "searchForNETFares": {},
+    "searchOvernight": {},
+    "segmentsCount": 0,
+    "segmentsOperatingAirlines": [],
+    "segmentsReservationClasses": [],
+    "serviceClass": "",
+    "showConditionsDebug": false,
+    "states": [],
+    "systemEnvironment": "staging",
+    "trips": [],
+    "type": "presearch",
+    "uniqueTrips": [],
+    "vasInfo": {},
+    "zones": [
+        {
+            "id": 12,
+            "members": [
+                {
+                    "code": "RU",
+                    "type": "country"
+                },
+                {
+                    "code": "UA",
+                    "type": "country"
+                },
+                {
+                    "code": "GE",
+                    "type": "country"
+                },
+                {
+                    "code": "KZ",
+                    "type": "country"
+                },
+                {
+                    "code": "UZ",
+                    "type": "country"
+                },
+                {
+                    "code": "TM",
+                    "type": "country"
+                },
+                {
+                    "code": "TJ",
+                    "type": "country"
+                },
+                {
+                    "code": "KG",
+                    "type": "country"
+                },
+                {
+                    "code": "AZ",
+                    "type": "country"
+                },
+                {
+                    "code": "AM",
+                    "type": "country"
+                },
+                {
+                    "code": "MD",
+                    "type": "country"
+                },
+                {
+                    "code": "BY",
+                    "type": "country"
+                }
+            ],
+            "name": "CIS"
+        },
+        {
+            "id": 10,
+            "members": [
+                {
+                    "code": "FI",
+                    "type": "country"
+                },
+                {
+                    "code": "AD",
+                    "type": "country"
+                },
+                {
+                    "code": "MK",
+                    "type": "country"
+                },
+                {
+                    "code": "MC",
+                    "type": "country"
+                },
+                {
+                    "code": "NL",
+                    "type": "country"
+                },
+                {
+                    "code": "DE",
+                    "type": "country"
+                },
+                {
+                    "code": "LT",
+                    "type": "country"
+                },
+                {
+                    "code": "IS",
+                    "type": "country"
+                },
+                {
+                    "code": "HU",
+                    "type": "country"
+                },
+                {
+                    "code": "CY",
+                    "type": "country"
+                },
+                {
+                    "code": "CH",
+                    "type": "country"
+                },
+                {
+                    "code": "EE",
+                    "type": "country"
+                },
+                {
+                    "code": "MT",
+                    "type": "country"
+                },
+                {
+                    "code": "GB",
+                    "type": "country"
+                },
+                {
+                    "code": "AL",
+                    "type": "country"
+                },
+                {
+                    "code": "SE",
+                    "type": "country"
+                },
+                {
+                    "code": "RS",
+                    "type": "country"
+                },
+                {
+                    "code": "HR",
+                    "type": "country"
+                },
+                {
+                    "code": "AT",
+                    "type": "country"
+                },
+                {
+                    "code": "GR",
+                    "type": "country"
+                },
+                {
+                    "code": "PL",
+                    "type": "country"
+                },
+                {
+                    "code": "BG",
+                    "type": "country"
+                },
+                {
+                    "code": "SI",
+                    "type": "country"
+                },
+                {
+                    "code": "SK",
+                    "type": "country"
+                },
+                {
+                    "code": "IE",
+                    "type": "country"
+                },
+                {
+                    "code": "LV",
+                    "type": "country"
+                },
+                {
+                    "code": "NO",
+                    "type": "country"
+                },
+                {
+                    "code": "FR",
+                    "type": "country"
+                },
+                {
+                    "code": "LU",
+                    "type": "country"
+                },
+                {
+                    "code": "BE",
+                    "type": "country"
+                },
+                {
+                    "code": "ES",
+                    "type": "country"
+                },
+                {
+                    "code": "TR",
+                    "type": "country"
+                },
+                {
+                    "code": "DK",
+                    "type": "country"
+                },
+                {
+                    "code": "RO",
+                    "type": "country"
+                },
+                {
+                    "code": "PT",
+                    "type": "country"
+                },
+                {
+                    "code": "BA",
+                    "type": "country"
+                },
+                {
+                    "code": "IM",
+                    "type": "country"
+                },
+                {
+                    "code": "IT",
+                    "type": "country"
+                },
+                {
+                    "code": "EG",
+                    "type": "country"
+                },
+                {
+                    "code": "JO",
+                    "type": "country"
+                },
+                {
+                    "code": "ME",
+                    "type": "country"
+                },
+                {
+                    "code": "CZ",
+                    "type": "country"
+                },
+                {
+                    "code": "LI",
+                    "type": "country"
+                },
+                {
+                    "code": "CN",
+                    "type": "country"
+                },
+                {
+                    "code": "SM",
+                    "type": "country"
+                },
+                {
+                    "code": "AE",
+                    "type": "country"
+                },
+                {
+                    "code": "IL",
+                    "type": "country"
+                },
+                {
+                    "code": "QA",
+                    "type": "country"
+                },
+                {
+                    "code": "TN",
+                    "type": "country"
+                },
+                {
+                    "code": "SA",
+                    "type": "country"
+                },
+                {
+                    "code": "MA",
+                    "type": "country"
+                }
+            ],
+            "name": "T1"
+        },
+        {
+            "id": 8,
+            "members": [
+                {
+                    "code": "AT",
+                    "type": "country"
+                },
+                {
+                    "code": "BE",
+                    "type": "country"
+                },
+                {
+                    "code": "DE",
+                    "type": "country"
+                },
+                {
+                    "code": "GR",
+                    "type": "country"
+                },
+                {
+                    "code": "IE",
+                    "type": "country"
+                },
+                {
+                    "code": "ES",
+                    "type": "country"
+                },
+                {
+                    "code": "IT",
+                    "type": "country"
+                },
+                {
+                    "code": "CY",
+                    "type": "country"
+                },
+                {
+                    "code": "LV",
+                    "type": "country"
+                },
+                {
+                    "code": "LU",
+                    "type": "country"
+                },
+                {
+                    "code": "MT",
+                    "type": "country"
+                },
+                {
+                    "code": "NL",
+                    "type": "country"
+                },
+                {
+                    "code": "PT",
+                    "type": "country"
+                },
+                {
+                    "code": "SK",
+                    "type": "country"
+                },
+                {
+                    "code": "SI",
+                    "type": "country"
+                },
+                {
+                    "code": "FI",
+                    "type": "country"
+                },
+                {
+                    "code": "FR",
+                    "type": "country"
+                },
+                {
+                    "code": "EE",
+                    "type": "country"
+                },
+                {
+                    "code": "GB",
+                    "type": "country"
+                },
+                {
+                    "code": "DK",
+                    "type": "country"
+                },
+                {
+                    "code": "SE",
+                    "type": "country"
+                },
+                {
+                    "code": "HU",
+                    "type": "country"
+                },
+                {
+                    "code": "LT",
+                    "type": "country"
+                },
+                {
+                    "code": "PL",
+                    "type": "country"
+                },
+                {
+                    "code": "CZ",
+                    "type": "country"
+                },
+                {
+                    "code": "BG",
+                    "type": "country"
+                },
+                {
+                    "code": "RO",
+                    "type": "country"
+                },
+                {
+                    "code": "HR",
+                    "type": "country"
+                }
+            ],
+            "name": "EUROZONE"
+        },
+        {
+            "id": 6,
+            "members": [
+                {
+                    "code": "ES",
+                    "type": "country"
+                },
+                {
+                    "code": "FR",
+                    "type": "country"
+                },
+                {
+                    "code": "DE",
+                    "type": "country"
+                },
+                {
+                    "code": "AT",
+                    "type": "country"
+                },
+                {
+                    "code": "GB",
+                    "type": "country"
+                },
+                {
+                    "code": "CH",
+                    "type": "country"
+                },
+                {
+                    "code": "IT",
+                    "type": "country"
+                }
+            ],
+            "name": "No passpport"
+        },
+        {
+            "id": 4,
+            "members": [
+                {
+                    "code": "MOW",
+                    "type": "city"
+                },
+                {
+                    "code": "LED",
+                    "type": "city"
+                }
+            ],
+            "name": "MOW-LED"
+        },
+        {
+            "id": 1,
+            "members": [
+                {
+                    "code": "RU",
+                    "type": "country"
+                },
+                {
+                    "code": "UA",
+                    "type": "country"
+                },
+                {
+                    "type": "country"
+                }
+            ],
+            "name": "not night"
+        },
+        {
+            "id": 2,
+            "members": [
+                {
+                    "code": "AT",
+                    "type": "country"
+                },
+                {
+                    "code": "MT",
+                    "type": "country"
+                },
+                {
+                    "code": "IT",
+                    "type": "country"
+                },
+                {
+                    "code": "FR",
+                    "type": "country"
+                },
+                {
+                    "code": "BE",
+                    "type": "country"
+                },
+                {
+                    "code": "EE",
+                    "type": "country"
+                },
+                {
+                    "code": "BY",
+                    "type": "country"
+                },
+                {
+                    "code": "NO",
+                    "type": "country"
+                },
+                {
+                    "code": "PT",
+                    "type": "country"
+                },
+                {
+                    "code": "PL",
+                    "type": "country"
+                },
+                {
+                    "code": "BA",
+                    "type": "country"
+                },
+                {
+                    "code": "SJ",
+                    "type": "country"
+                },
+                {
+                    "code": "AD",
+                    "type": "country"
+                },
+                {
+                    "code": "SE",
+                    "type": "country"
+                },
+                {
+                    "code": "LV",
+                    "type": "country"
+                },
+                {
+                    "code": "DE",
+                    "type": "country"
+                },
+                {
+                    "code": "FI",
+                    "type": "country"
+                },
+                {
+                    "code": "LU",
+                    "type": "country"
+                },
+                {
+                    "code": "GI",
+                    "type": "country"
+                },
+                {
+                    "code": "RO",
+                    "type": "country"
+                },
+                {
+                    "code": "FO",
+                    "type": "country"
+                },
+                {
+                    "code": "MC",
+                    "type": "country"
+                },
+                {
+                    "code": "GG",
+                    "type": "country"
+                },
+                {
+                    "code": "HU",
+                    "type": "country"
+                },
+                {
+                    "code": "GB",
+                    "type": "country"
+                },
+                {
+                    "code": "JE",
+                    "type": "country"
+                },
+                {
+                    "code": "DK",
+                    "type": "country"
+                },
+                {
+                    "code": "HR",
+                    "type": "country"
+                },
+                {
+                    "code": "CZ",
+                    "type": "country"
+                },
+                {
+                    "code": "ES",
+                    "type": "country"
+                },
+                {
+                    "code": "AL",
+                    "type": "country"
+                },
+                {
+                    "code": "MD",
+                    "type": "country"
+                },
+                {
+                    "code": "MK",
+                    "type": "country"
+                },
+                {
+                    "code": "GR",
+                    "type": "country"
+                },
+                {
+                    "code": "SI",
+                    "type": "country"
+                },
+                {
+                    "code": "SM",
+                    "type": "country"
+                },
+                {
+                    "code": "UA",
+                    "type": "country"
+                },
+                {
+                    "code": "IS",
+                    "type": "country"
+                },
+                {
+                    "code": "NL",
+                    "type": "country"
+                },
+                {
+                    "code": "VA",
+                    "type": "country"
+                },
+                {
+                    "code": "BG",
+                    "type": "country"
+                },
+                {
+                    "code": "LI",
+                    "type": "country"
+                },
+                {
+                    "code": "CH",
+                    "type": "country"
+                },
+                {
+                    "code": "CY",
+                    "type": "country"
+                },
+                {
+                    "code": "IM",
+                    "type": "country"
+                },
+                {
+                    "code": "IE",
+                    "type": "country"
+                },
+                {
+                    "code": "LT",
+                    "type": "country"
+                },
+                {
+                    "code": "SK",
+                    "type": "country"
+                }
+            ],
+            "name": "generated_europe"
+        }
+    ]
+}
